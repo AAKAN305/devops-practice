@@ -2,3 +2,4 @@ pwd
 ls -la
 mkdir sample
 rm -rf sample
+new line added on Day 2
